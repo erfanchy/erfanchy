@@ -1,9 +1,11 @@
 ![MasterHead](https://github.com/erfanchy/erfanchy/blob/main/Object_detection.png)
+<h6 align="center"> Above demonstrates the output of my "Emotion Detector" in Real-Time which uses the VGG-19 Architecture implemented using Keras.</h6>
+
 
 <h1 align="center">Hi 👋, I'm Erfan!</h1>
 <h3 align="center">I am a Machine Learning Enthusiast and a Deep Learning Practitioner.</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.erfanchowdhury.com](https://www.erfanchowdhury.com)
+- 👨‍💻 All of visualization of my projects are available at [https://www.erfanchowdhury.com](https://www.erfanchowdhury.com)
 
 - 📫 How to reach me **erfanshourov@gmail.com**
 
