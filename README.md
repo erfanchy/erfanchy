@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/erfanchy/erfanchy/blob/main/Object_detection.png)
-<h6 align="center"> Above demonstrates the output of my "Emotion Detector" in Real-Time which uses the VGG-19 Architecture implemented using Keras.</h6>
+<h6 align="center"> Above demonstrates the output of my "Six Emotion Face Detector" in Real-Time which uses the VGG-19 Architecture implemented using Keras.</h6>
 
 
 <h1 align="center">Hi 👋, I'm Erfan!</h1>
